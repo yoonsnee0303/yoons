@@ -1,0 +1,227 @@
+{
+    "domeggook": {
+        "basis": {
+            "no": 34457854,
+            "status": "판매중",
+            "title": "페브리즈 에어 비내린 초원 275g",
+            "keywords": {
+                "kw": [
+                    "페브리즈",
+                    "방향제",
+                    "섬유탈취제",
+                    "탈취제",
+                    "화장실용",
+                    "탈취",
+                    "냄새제거",
+                    "리필",
+                    "화장실"
+                ]
+            },
+            "section": "직접판매",
+            "nego": "disable",
+            "adult": "false",
+            "dateStart": "2023-03-14 10:50:04",
+            "dateEnd": "2024-03-13 10:50:04",
+            "dateReg": "2023-03-14 10:50:01",
+            "tax": "과세상품"
+        },
+        "price": {
+            "dome": "4800",
+            "supply": 4800
+        },
+        "qty": {
+            "inventory": "9999",
+            "domeMoq": "2",
+            "domeUnit": 1,
+            "supplyUnit": 1
+        },
+        "deli": {
+            "method": "택배",
+            "pay": "선결제",
+            "dome": {
+                "type": "수량별비례",
+                "tbl": "6+3000|6+3000"
+            },
+            "supply": {
+                "pay": "선결제",
+                "type": "수량별비례",
+                "tbl": "6+3000|6+3000"
+            },
+            "wating": "1일 소요",
+            "periodDeli": "1",
+            "sendAvg": "0.6",
+            "fastDeli": "false",
+            "merge": {
+                "enable": "n"
+            },
+            "feeExtra": {
+                "jeju": "4000",
+                "islands": "6000",
+                "useDeliPro": "true"
+            },
+            "fromOversea": "false",
+            "reqCcno": "false"
+        },
+        "channel": {
+            "dome": "true",
+            "supply": "true"
+        },
+        "thumb": {
+            "small": "https://cdn1.domeggook.com/upload/item/2023/03/14/1678758603D9D12B0EF28B15A9CC00A4/1678758603D9D12B0EF28B15A9CC00A4_img_150?hash=dff627e2c74057a664e0523464958228",
+            "large": "https://cdn1.domeggook.com/upload/item/2023/03/14/1678758603D9D12B0EF28B15A9CC00A4/1678758603D9D12B0EF28B15A9CC00A4_img_330?hash=dff627e2c74057a664e0523464958228",
+            "original": "https://cdn1.domeggook.com/upload/item/2023/03/14/1678758603D9D12B0EF28B15A9CC00A4/1678758603D9D12B0EF28B15A9CC00A4_img_760?hash=dff627e2c74057a664e0523464958228",
+            "smallPng": "https://cdn1.domeggook.com/upload/item/2023/03/14/1678758603D9D12B0EF28B15A9CC00A4/1678758603D9D12B0EF28B15A9CC00A4_stt_150.png?hash=dff627e2c74057a664e0523464958228",
+            "largePng": "https://cdn1.domeggook.com/upload/item/2023/03/14/1678758603D9D12B0EF28B15A9CC00A4/1678758603D9D12B0EF28B15A9CC00A4_stt_330.png?hash=dff627e2c74057a664e0523464958228",
+            "hash": "4b7b98461a91d0eb454c0ea8bd97b36d",
+            "lastUpdate": "2023-03-14 10:50:08"
+        },
+        "desc": {
+            "license": {
+                "usable": "true",
+                "msg": "이미지 사용 가능합니다."
+            },
+            "contents": {
+                "item": "<center><img src=https://pickandhome.speedgabia.com/notice/001.jpg><br><img src=https://pickandhome.speedgabia.com/item/1630635735/title.jpg><br><img src=https://pickandhome.speedgabia.com/item/1630635735/body.jpg>",
+                "deli": "<img src=https://pickandhome.speedgabia.com/notice/002.jpg>",
+                "event": "",
+                "otherItem": "<!-- [ST]catalog -->\r\n<div style=\"margin: 0px auto; width: 930px;\"><div data-hintbox=\"off\" data-hidetype=\"0\" class=\"  tmpl06\"><div style=\"text-align: center; padding: 40px 0px;\"><div style=\"display: inline-block; font-size: 30px; padding: 0px 70px; line-height: 70px; letter-spacing: -1px; color: rgb(0, 0, 0); white-space: nowrap; text-align: center;\">상품공급사 추천상품</div> <div style=\"border-bottom: 2px solid rgb(0, 0, 0); width: 2em; margin: 15px auto 0px;\"></div></div> <!----> <div style=\"text-align: center;\"><a href=\"http://domeggook.com/15476266\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_0_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">01</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/07/17/1626477483B941D5CA162643B836457D/1626477483B941D5CA162643B836457D_stt_330.png?hash=be14185d36be3250651e9583fcd422a5\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15476266</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">피죤 섬유유연제 3L 용기 2100 1600ML 리필 핑크 블루 옐로우 고농축</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">11670</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15271435\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_1_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">02</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/07/07/1625615832F2758979E25742F28DF739/1625615832F2758979E25742F28DF739_stt_330.png?hash=0070c4a384c87bd31051d2602c06baad\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15271435</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">진짜 좋은 제습제 30g*20입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">10300</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15541870\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_2_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">03</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/07/24/1627083300AFFEF52E98020EA5DAA62D/1627083300AFFEF52E98020EA5DAA62D_stt_330.png?hash=bc10a362eed759f6b380382704e43c6a\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15541870</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">파워드라이맥스 젤리 제습제 30g x 30개 악기용 옷장용</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">13300</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15052457\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_3_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">04</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/06/16/16238163212A797AC0AE6196F0EF910A/16238163212A797AC0AE6196F0EF910A_stt_330.png?hash=f6bb664c063637f9bdb5cab0d3976945\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15052457</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">크린?N 기모 고무장갑</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">1320</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/12920211\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_4_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">05</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/02/11/1613009790F988C6BC1283059C3879B4/1613009790F988C6BC1283059C3879B4_stt_330.png?hash=f666f979d716446f611b653dddc1ff06\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">12920211</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">고급형 물걸레청소포 대형 25매</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">1850</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15563974\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_5_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">06</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/07/27/1627353677C92A82A00529A86EF03BB5/1627353677C92A82A00529A86EF03BB5_stt_330.png?hash=7eda10518a3f3715deb268b46d2fdf97\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15563974</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">새남맥스 파워드라이맥스 진짜좋은제습제 걸이형 90g x 8개 1팩</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">13300</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15563085\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_6_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">07</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/07/27/1627347845BC1075700B74F936B3DA91/1627347845BC1075700B74F936B3DA91_stt_330.png?hash=822400eb2590dc196fb482b015aca2a5\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15563085</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">새남맥스 파워드라이맥스 진짜좋은제습제 신발용(탈취제)80gX8개입 2팩</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">13300</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15562567\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_7_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">08</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/07/26/1627301673C2C800963F9D8204A6C26F/1627301673C2C800963F9D8204A6C26F_stt_330.png?hash=e0d4a5660d08ff8de4d00fc408fbbab1\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15562567</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">일회용 친환경 접시 도시락 포장 나무젓가락 숟가락 포크 다회용 컵 그릇 용기 캠핑 반찬</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">6000</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15543054\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_8_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">09</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/07/24/1627098919C6995CA54F03407ACCDE98/1627098919C6995CA54F03407ACCDE98_stt_330.png?hash=021df1541e9b3e52b64e8817afe22f64\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15543054</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">이쑤시개 대나무 이쑤시개 요지 리필 모음전</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">9500</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13602705\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_9_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">10</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/04/07/1617762339CCED41F5CCDBB25A74C365/1617762339CCED41F5CCDBB25A74C365_stt_330.png?hash=b51c6bdadc2aad4e8edcf2c20d0f35e6\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13602705</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">유한양행 해피홈 모기향 10입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">880</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15487241\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_10_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">11</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/07/19/16266570233A8A88E341DB3128C150AA/16266570233A8A88E341DB3128C150AA_stt_330.png?hash=90f41b9a39c1317f2f3098c6fcbf48eb\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15487241</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">화장 머리빗 열전도구르프 손톱깍이 미용거울 화장솜 세안밴드 모음</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">3190</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13602773\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_11_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">12</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/04/07/161776316981EF1A7CC8C07DD26AD1BE/161776316981EF1A7CC8C07DD26AD1BE_stt_330.png?hash=07b257f28435a3a25bf951df2716f714\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13602773</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">홈키파 모기향 30입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">4400</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13602742\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_12_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">13</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/04/07/1617762794ADCA39A10E9D9CF8779097/1617762794ADCA39A10E9D9CF8779097_stt_330.png?hash=61fc4c74a1878290ef7f4a4b72110983\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13602742</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">홈키파 모기향 10입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">940</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13602712\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_13_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">14</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/04/07/161776250215648689E40B7DD425FE40/161776250215648689E40B7DD425FE40_stt_330.png?hash=f898892ac51217f6534521dc8ebb0fa7\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13602712</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">유한양행 해피홈 모기향 30입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">4180</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13428498\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_14_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">15</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/03/29/16169773122DD6D9B5A3F3C5401D9CEB/16169773122DD6D9B5A3F3C5401D9CEB_stt_330.png?hash=14ed0736157b48ca092663253aacf07e\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13428498</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">2080 퓨어솔트치약 크리스탈민트향 160g X 3입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">3300</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13427711\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_15_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">16</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/03/29/16169753030B47452796E375CA7980E4/16169753030B47452796E375CA7980E4_stt_330.png?hash=11aa8bd81cdeca844d89c2536d25ea63\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13427711</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">2080 퓨어솔트치약 핑크민트향 160g X 3입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">3300</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13351333\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_16_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">17</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/03/25/1616640388ACCA3D8A735420119F34AB/1616640388ACCA3D8A735420119F34AB_stt_330.png?hash=b71a10c7a7b2d3f501185dcbcba67c6a\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13351333</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">애견 수제 핫도그 100g 연어</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">2310</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13350395\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_17_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">18</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/03/25/161663936160D6A80870198A1DB5BD75/161663936160D6A80870198A1DB5BD75_stt_330.png?hash=2ff6ca55847f006886809ed3de82c581\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13350395</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">애견 수제 핫도그 100g 소고기</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">2310</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13349982\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_18_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">19</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/03/25/16166386980E218A5401CFBDD779982C/16166386980E218A5401CFBDD779982C_stt_330.png?hash=1b4cf5429f3c41531bad5a709e1e4aea\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13349982</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">바우와우 혼합 150g</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">2200</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/13314805\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_19_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">20</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/03/23/16164777782F605CD233141AD2FCE534/16164777782F605CD233141AD2FCE534_stt_330.png?hash=9960bb29884805cedb5041921f6c2f67\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">13314805</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">뽀로로&amp;펫 모래킹 4L 자스민향</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">3700</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15060566\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_20_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">21</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/06/17/16238854788CA2A061B1600E4591AB50/16238854788CA2A061B1600E4591AB50_stt_330.png?hash=297d8c2ed118a62e2b6c8d42904f3116\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15060566</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">크린?N 고무장갑 XL(특대) 10매입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">16300</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15060564\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_21_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">22</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/06/17/162388477248722AD45FDCC8A6C8A096/162388477248722AD45FDCC8A6C8A096_stt_330.png?hash=abe6a9e123a4421b5b6018a59fdd3994\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15060564</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">크린?N 고무장갑 L(대) 10매입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">13200</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15060560\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_22_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45em; padding: 0px; margin-bottom: -1.45em; height: 1.45em; text-align: center; position: relative; z-index: 10; background-color: rgb(63, 116, 255);\">23</div> <img src=\"https://cdn1.domeggook.com//upload/item/2021/06/17/16238841559F5CC06A3966FDE6FB7777/16238841559F5CC06A3966FDE6FB7777_stt_330.png?hash=e7c132447e6191d274ea8ba542297801\" style=\"display: block; width: 100%;\"> <div style=\"padding: 8px;\"><div style=\"font-size: 1em; line-height: 1.45em;\">15060560</div> <div style=\"font-size: 1.2em; line-height: 1.45em; letter-spacing: -1px; height: 3em; white-space: normal; word-break: break-all; overflow: hidden; text-align: left;\">크린?N 고무장갑 M(중) 10매입</div> <div style=\"text-align: right; white-space: nowrap;\"><span style=\"font-size: 1.8em; line-height: 1.45em; letter-spacing: -1px; color: rgb(63, 116, 255);\">12100</span> <span style=\"font-size: 1.1em; line-height: 1.45em; letter-spacing: -1px;\">원</span></div> <!----></div></div></a><a href=\"http://domeggook.com/15060559\" target=\"_blank\" style=\"text-align: left; display: inline-block; width: 142px; margin: 4px; border: 1px solid rgb(164, 164, 164); color: rgb(66, 66, 66); text-decoration: none; font-size: 10px; box-sizing: content-box; vertical-align: top; overflow: hidden;\"><div style=\"font-size: 10px;\"><div data-focus=\"#nav_23_idx\" style=\"color: rgb(255, 255, 255); width: 1.8em; font-size: 1.4em; line-height: 1.45"
+            }
+        },
+        "seller": {
+            "id": "alalsgur",
+            "nick": "새빛유통",
+            "type": "일반과세자",
+            "rank": "1",
+            "power": "false",
+            "good": "true",
+            "global": "false",
+            "score": {
+                "avg": "98%",
+                "cnt": 47
+            },
+            "company": {
+                "name": "씨엘로트레이딩",
+                "boss": "신민석",
+                "cno": "306-14-37848",
+                "addr": "대구광역시 북구 매천로 1-1 (팔달동) B 동",
+                "phone": "053-312-3541"
+            }
+        },
+        "benefits": {
+            "sellerPoint": {
+                "type": "none"
+            }
+        },
+        "detail": {
+            "size": "",
+            "weight": "",
+            "country": "수입산_아시아_태국",
+            "manufacturer": "피앤지",
+            "model": "페브리즈 에어 비내린 초원 275g",
+            "oversea": "true",
+            "itemCustomCode": "",
+            "infoDuty": {
+                "type": "기타 재화",
+                "item": [
+                    {
+                        "type": "item",
+                        "name": "품명 및 모델명",
+                        "desc": "상세정보 별도표기"
+                    },
+                    {
+                        "type": "item",
+                        "name": "법에 의한 인증·허가 등을 받았음을 확인할 수 있는 경우 그에 대한 사항",
+                        "desc": "상세정보 별도표기"
+                    },
+                    {
+                        "type": "item",
+                        "name": "제조국 또는 원산지",
+                        "desc": "상세정보 별도표기"
+                    },
+                    {
+                        "type": "item",
+                        "name": "제조사",
+                        "desc": "상세정보 별도표기"
+                    },
+                    {
+                        "type": "item",
+                        "name": "A/S 책임자와 전화번호 또는 소비자상담 관련 전화번호",
+                        "desc": "상세정보 별도표기"
+                    },
+                    {
+                        "type": "transaction",
+                        "name": "청약철회 및 계약의 해제에 관한 사항",
+                        "desc": "상세정보 별도표기"
+                    },
+                    {
+                        "type": "transaction",
+                        "name": "재화 등의 교환/반품/보증과 그 대금 환불 및 환불의 지연에 따른 배상급 지급의 조건/절차",
+                        "desc": "상세정보 별도표기"
+                    },
+                    {
+                        "type": "transaction",
+                        "name": "소비자피해보상의 처리, 재화 등에 대한 불만 처리 및 소비자와 사업자 사이의 분쟁처리에 관한 사항",
+                        "desc": "상세정보 별도표기"
+                    },
+                    {
+                        "type": "transaction",
+                        "name": "거래에 관한 약관의 내용 또는 확인할 수 있는 방법",
+                        "desc": "상세정보 별도표기"
+                    }
+                ]
+            }
+        },
+        "category": {
+            "parents": {
+                "elem": [
+                    {
+                        "name": "가구/생활/취미",
+                        "code": "04_00_00_00_00",
+                        "depth": 1
+                    },
+                    {
+                        "name": "생활/수납/욕실/청소",
+                        "code": "04_03_00_00_00",
+                        "depth": 2
+                    },
+                    {
+                        "name": "방향/탈취/해충퇴치",
+                        "code": "04_03_09_00_00",
+                        "depth": 3
+                    },
+                    {
+                        "name": "제습/방향/탈취",
+                        "code": "04_03_09_01_00",
+                        "depth": 4
+                    }
+                ]
+            },
+            "current": {
+                "name": "방향제",
+                "code": "04_03_09_01_03",
+                "depth": 5
+            }
+        },
+        "return": {
+            "addr": {
+                "no": "33449",
+                "zipcode": "41490",
+                "address1": "대구광역시 북구 매천로 1-1 (팔달동)",
+                "address2": "B동 새빛유통",
+                "phone": "053-312-3541",
+                "mobile": "010-4006-9315"
+            },
+            "deliAmt": 3000,
+            "deliAmtDouble": "true"
+        },
+        "event": {
+            "join": "",
+            "packDeli": "false"
+        },
+        "etc": {
+            "showByMailzine": "false",
+            "connectStompApi": "false",
+            "denyMarket": "false"
+        }
+    }
+}
